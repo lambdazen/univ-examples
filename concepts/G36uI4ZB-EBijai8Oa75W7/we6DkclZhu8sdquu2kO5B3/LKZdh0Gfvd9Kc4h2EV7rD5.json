@@ -1,6 +1,6 @@
 {
-  "uri" : "local://TjZh9Ypo7WALDKbGx319o9/",
-  "name" : "Unit 1: Hello World",
+  "uri" : "local://LKZdh0Gfvd9Kc4h2EV7rD5/",
+  "name" : "Unit 3: Hello World (with a CSS and JS)",
   "category" : "",
   "parent" : "local://we6DkclZhu8sdquu2kO5B3/",
   "flags" : "U",
@@ -8,7 +8,7 @@
   "vars" : [ {
     "name" : "_page_html",
     "expr" : {
-      "str" : "<h1 style=\"text-align: center; margin-top: 3em\">\n  Change this to Hello World!\n</h1>",
+      "str" : "<head>\n  <script src=\"/resourcelocal://iuBEkts-cKA8Ha_JIN6JA2/\" type=\"text/javascript\"></script>\n  <link rel=\"stylesheet\" type=\"text/css\" href=\"/resourcelocal://r4Bl8GJsK58-mKfbtvR5V3/\">\n</head>\n<body>\n  <h1>Hello World!</h1>\n</body>",
       "strEditMode" : ""
     }
   }, {

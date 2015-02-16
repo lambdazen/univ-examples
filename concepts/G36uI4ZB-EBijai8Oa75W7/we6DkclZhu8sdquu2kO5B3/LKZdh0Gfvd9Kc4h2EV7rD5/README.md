@@ -2,5 +2,4 @@
 
 The code for the following concepts can be found here: 
 
-- [r4Bl8GJsK58\-mKfbtvR5V3.json](r4Bl8GJsK58-mKfbtvR5V3.json): helloworld\.css
 - [iuBEkts\-cKA8Ha\_JIN6JA2.json](iuBEkts-cKA8Ha_JIN6JA2.json): helloworld\.js
